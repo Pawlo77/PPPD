@@ -1,0 +1,109 @@
+Kozica 1 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 0.
+Kozica 2 wybór: mega skok ruch: 5.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 5.
+Kozica 1 wybór: atak ruch: 0, ruch atakowanej kozicy: 0.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 5.
+Kozica 2 wybór: atak ruch: -1, ruch atakowanej kozicy: 0.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 4.
+Kozica 1 wybór: skok ruch: 2.
+Pozycja kozicy 1: 2.
+Pozycja kozicy 2: 4.
+Kozica 2 wybór: atak ruch: 0, ruch atakowanej kozicy: -1.
+Pozycja kozicy 1: 1.
+Pozycja kozicy 2: 4.
+Kozica 1 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 4.
+Kozica 2 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 3.
+Kozica 1 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 3.
+Kozica 2 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 0.
+Pozycja kozicy 2: 2.
+Kozica 1 wybór: mega skok ruch: 5.
+Pozycja kozicy 1: 5.
+Pozycja kozicy 2: 2.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 5.
+Pozycja kozicy 2: 3.
+Kozica 1 wybór: atak ruch: 0, ruch atakowanej kozicy: -1.
+Pozycja kozicy 1: 5.
+Pozycja kozicy 2: 2.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 5.
+Pozycja kozicy 2: 3.
+Kozica 1 wybór: skok ruch: 3.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 3.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 4.
+Kozica 1 wybór: atak ruch: 0, ruch atakowanej kozicy: -4.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 0.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 1.
+Kozica 1 wybór: skok ruch: 1.
+Pozycja kozicy 1: 9.
+Pozycja kozicy 2: 1.
+Kozica 2 wybór: skok ruch: 2.
+Pozycja kozicy 1: 9.
+Pozycja kozicy 2: 3.
+Kozica 1 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 3.
+Kozica 2 wybór: skok ruch: 3.
+Pozycja kozicy 1: 8.
+Pozycja kozicy 2: 6.
+Kozica 1 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 7.
+Pozycja kozicy 2: 6.
+Kozica 2 wybór: mega skok ruch: -1.
+Pozycja kozicy 1: 7.
+Pozycja kozicy 2: 5.
+Kozica 1 wybór: mega skok ruch: 5.
+Pozycja kozicy 1: 12.
+Pozycja kozicy 2: 5.
+Kozica 2 wybór: mega skok ruch: 5.
+Pozycja kozicy 1: 12.
+Pozycja kozicy 2: 10.
+Kozica 1 wybór: skok ruch: 2.
+Pozycja kozicy 1: 14.
+Pozycja kozicy 2: 10.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 14.
+Pozycja kozicy 2: 11.
+Kozica 1 wybór: skok ruch: 1.
+Pozycja kozicy 1: 15.
+Pozycja kozicy 2: 11.
+Kozica 2 wybór: skok ruch: 3.
+Pozycja kozicy 1: 15.
+Pozycja kozicy 2: 14.
+Kozica 1 wybór: atak ruch: -1, ruch atakowanej kozicy: 0.
+Pozycja kozicy 1: 14.
+Pozycja kozicy 2: 14.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 14.
+Pozycja kozicy 2: 15.
+Kozica 1 wybór: skok ruch: 3.
+Pozycja kozicy 1: 17.
+Pozycja kozicy 2: 15.
+Kozica 2 wybór: skok ruch: 1.
+Pozycja kozicy 1: 17.
+Pozycja kozicy 2: 16.
+Kozica 1 wybór: skok ruch: 1.
+Pozycja kozicy 1: 18.
+Pozycja kozicy 2: 16.
+Kozica 2 wybór: mega skok ruch: 5.
+Pozycja kozicy 1: 18.
+Pozycja kozicy 2: 21.
+WYGRYWA kozica 2!

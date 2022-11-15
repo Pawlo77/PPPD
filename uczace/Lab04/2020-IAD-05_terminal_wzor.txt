@@ -1,0 +1,325 @@
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 0
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Kozica wykonała mega skok!
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 5
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Strata ruchu, kozica, która jest niżej nie może atakować!
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 5
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Atak się nie udał, atakująca kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 4
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 2.
+Pozycja kozicy 1: 2
+Pozycja kozicy 2: 4
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Atak się powiódł, atakowana kozica cofa się o 1 pola.
+Pozycja kozicy 1: 1
+Pozycja kozicy 2: 4
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 4
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 3
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 3
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 0
+Pozycja kozicy 2: 2
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Kozica wykonała mega skok!
+Pozycja kozicy 1: 5
+Pozycja kozicy 2: 2
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 5
+Pozycja kozicy 2: 3
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Atak się powiódł, atakowana kozica cofa się o 1 pola.
+Pozycja kozicy 1: 5
+Pozycja kozicy 2: 2
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 5
+Pozycja kozicy 2: 3
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 3.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 3
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 4
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Atak się powiódł, atakowana kozica cofa się o 4 pola.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 0
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 1
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 9
+Pozycja kozicy 2: 1
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 2.
+Pozycja kozicy 1: 9
+Pozycja kozicy 2: 3
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 3
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 3.
+Pozycja kozicy 1: 8
+Pozycja kozicy 2: 6
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 7
+Pozycja kozicy 2: 6
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Mega skok się nie udał, kozica cofa się o 1 pole.
+Pozycja kozicy 1: 7
+Pozycja kozicy 2: 5
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Kozica wykonała mega skok!
+Pozycja kozicy 1: 12
+Pozycja kozicy 2: 5
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Kozica wykonała mega skok!
+Pozycja kozicy 1: 12
+Pozycja kozicy 2: 10
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 2.
+Pozycja kozicy 1: 14
+Pozycja kozicy 2: 10
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 14
+Pozycja kozicy 2: 11
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 15
+Pozycja kozicy 2: 11
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 3.
+Pozycja kozicy 1: 15
+Pozycja kozicy 2: 14
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+3
+Atak się nie udał, atakująca kozica cofa się o 1 pole.
+Pozycja kozicy 1: 14
+Pozycja kozicy 2: 14
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 14
+Pozycja kozicy 2: 15
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 3.
+Pozycja kozicy 1: 17
+Pozycja kozicy 2: 15
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 17
+Pozycja kozicy 2: 16
+Ruch kozicy 1.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+1
+Długość skoku: 1.
+Pozycja kozicy 1: 18
+Pozycja kozicy 2: 16
+Ruch kozicy 2.
+Co chcesz zrobić?
+1 - skok
+2 - mega skok
+3 - atak
+2
+Kozica wykonała mega skok!
+Pozycja kozicy 1: 18
+Pozycja kozicy 2: 21
+WYGRYWA kozica 2!
