@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
     n = 30
     p = 12
-    L = [random.randint(10, 40) for _ in range(p)]
+    L = [random.randrange(12, 40, 2) for _ in range(p)]
 
     positions, statuses = symuluj(L, n, p)
 
