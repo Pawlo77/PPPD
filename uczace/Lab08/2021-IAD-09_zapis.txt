@@ -1,0 +1,8 @@
+liczba dan: 7
+liczba uwzglednionych alergenow: 11
+maksymalna liczba alergenow w jednym daniu: 4
+liczba dan z 0 alergenami: 2
+liczba dan z 1 alergenami: 0
+liczba dan z 2 alergenami: 1
+liczba dan z 3 alergenami: 2
+liczba dan z 4 alergenami: 2

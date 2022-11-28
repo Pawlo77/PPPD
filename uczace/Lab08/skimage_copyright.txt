@@ -1,0 +1,9 @@
+Image sources: https://github.com/scikit-image/scikit-image
+
+scikit-image: Image processing in Python
+
+License: Modified BSD
+
+Copyright (C) 2011, the scikit-image team
+All rights reserved.
+

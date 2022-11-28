@@ -11,7 +11,7 @@ def sprawdz(rzuty, n):
 
     i = 0
     while i < len(rzuty):
-        rzut = rzuty[i]
+        git
 
         if rzut % 2 == 0:
             pos += rzut
