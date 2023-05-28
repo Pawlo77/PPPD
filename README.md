@@ -1,8 +1,12 @@
-# PPPD
-Code implementations for some basic programming problems.<br>
-Most of them are structured problem.pdf - solution.py / solution.ipynb
+# PPPD (Basic Programming Problems and Data Preprocessing)
 
-<i>Part of Data Science studies at the Warsaw University of Technology - the Basis of Programming and Data Preprocessing - 1 semester</i>
+This repository contains code implementations for some basic programming problems. Most of the problems are structured as problem.pdf - solution.py / solution.ipynb.
+
+These problems are part of the Data Science studies at Warsaw University of Technology, specifically the course on the Basis of Programming and Data Preprocessing, which is covered in the 1st semester.
 
 <hr>
-Note: <i>scince most of solutions are relatively short and naming convension in .py code is specified in .pdf tasks, most of code is left without comments.</i>
+
+**Note**: Since most of the solutions are relatively short and the naming convention in the .py code is specified in the .pdf tasks, the code is left without comments for brevity.
+
+Feel free to explore the repository and check out the solutions to these basic programming problems and data preprocessing tasks!
+
